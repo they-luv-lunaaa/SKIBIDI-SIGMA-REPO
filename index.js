@@ -42,4 +42,4 @@ async def purge(ctx):
 
     await ctx.send(f"✅ Purge complete. Deleted {deleted} text-only messages.")
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTQzMjczOTg5MDEwNTI4NjgzMg.GrABM7.VSQfrCbhBO1n_WYfRzND3RIsUo406ynxyIK_yQ")
